@@ -48,6 +48,7 @@ I am interested in game, tool and engine development and have been working and m
 ---
 ### My blog on Ko-Fi:
 * [Contributing to Godot - My Journey from awe to first PR](https://ko-fi.com/flamelizard)
+* [GDExtension - How to write your first extension](https://ko-fi.com/post/GDExtension--Godot-SUPERCHARGED--How-to-get-star-Z8Z4GLUSE)
 
 
 ---
