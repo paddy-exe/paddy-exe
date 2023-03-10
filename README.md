@@ -27,6 +27,7 @@ I am interested in game, tool and engine development and have been working and m
 </div>
 
 * [GodotVisualShader-Extras Addon - A VS-NodeLibrary to support your work with Shaders and VFX](https://github.com/paddy-exe/GodotVisualShader-Extras)
+* [Shader-Function-Extras - An library of helpful functions for Godot 4.0 to use in custom written shaders](https://github.com/paddy-exe/ShaderFunction-Extras)
 * [Stylized Sky Shader - A showcase of the new SkyShader system in Godot 4.0 with clouds, stars, a moon and a sun](https://github.com/paddy-exe/GodotStylizedSkyShader)
 * [Stylized Water Shader - My first take on a water shader based on depth-fading](https://github.com/paddy-exe/Godot-3D-Stylized-Water)
 * [Real-Time(-ish) Caustics in Godot Engine based on projection](https://github.com/paddy-exe/Godot-RealTimeCaustics)
