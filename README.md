@@ -47,9 +47,10 @@ I am interested in game, tool and engine development and have been working and m
 
 
 ---
-### My blog on Ko-Fi:
-* [Contributing to Godot - My Journey from awe to first PR](https://ko-fi.com/flamelizard)
-* [GDExtension - How to write your first extension](https://ko-fi.com/post/GDExtension--Godot-SUPERCHARGED--How-to-get-star-Z8Z4GLUSE)
+### My blog on [paddy-exe.github.io](https://paddy-exe.github.io):
+* [Contributing to Godot - My Journey from awe to first PR](https://paddy-exe.github.io/posts/contributing-to-godot-my-journey/)
+* [GDExtension - How to write your first extension](https://paddy-exe.github.io/posts/gdextension-how-to-write-your-first-extension/)
+* [Contributing to Godot - Visual Shaders Nodes](https://paddy-exe.github.io/posts/gdextension-how-to-write-your-first-extension/)
 
 
 ---
