@@ -14,10 +14,10 @@
 </div>
 
 # Hi there 👋
-My name is Patrick a.k.a. 🔥 Lizard. I am a 22y Biomimicry student from Germany.
+My name is Patrick a.k.a. 🔥 Lizard. I am a Biomimicry student from Germany.
 I am interested in game, tool and engine development and have been working and messing around with game dev for over 4 years now. I also have prior (professional) knowledge in Python. Nowadays I work mostly with GodotEngine on several open-source projects such as Godot itself, GDExtension and several VFX and Shader projects.
 
-## My Projects
+## Some of my past work
 ### VFX and Shader Projects
 
 <div id="header" align="center">
