@@ -14,7 +14,7 @@
 </div>
 
 # Hi there 👋
-My name is Patrick a.k.a. 🔥 Lizard. I am a Biomimicry student from Germany.
+My name is Patrick a.k.a. 🔥 Lizard. I am a Biomimicry graduate from Germany studying Game Sciences.
 I am interested in game, tool and engine development and have been working and messing around with game dev for over 4 years now. I also have prior (professional) knowledge in Python in the fields of Data Science. Nowadays I work mostly with GodotEngine on several open-source projects such as Godot itself, GDExtension and several VFX and Shader projects.
 
 ## Some of my past work
@@ -40,10 +40,7 @@ I am interested in game, tool and engine development and have been working and m
 
 ### Other Godot Projects
 * [GDExtension Summator - A GDExtension Github template to quickly get started GDExtensions for 4.0](https://github.com/paddy-exe/GDExtensionSummator)
-
-
-
-
+* [godot-cpp-template - The official GDExtension GitHub template to get started with GDExtensions in C++](https://github.com/godotengine/godot-cpp-template)
 
 
 ---
